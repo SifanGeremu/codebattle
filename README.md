@@ -85,7 +85,7 @@ The application follows a modular architecture with clear separation of concerns
 
 ## 🚀 Deployment
 
-The application includes GitHub Actions CI/CD pipeline for automated testing and deployment.
+The application includes GitHub Actions CI/CD pipeline for automated testing and deployment./removed for now
 
 ## 📱 Responsive Design
 
